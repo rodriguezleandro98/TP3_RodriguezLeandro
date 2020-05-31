@@ -1,0 +1,54 @@
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\bin\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\bin\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\bin\Debug\CatalogoDominio.dll
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\bin\Debug\CatalogoDominio.pdb
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\obj\Debug\CatalogoNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CopyComplete
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\obj\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\source\repos\CatalogoView\CatalogoNegocio\obj\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\bin\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\bin\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\bin\Debug\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\bin\Debug\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\obj\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP2_RodriguezLeandroCopia\CatalogoNegocio\obj\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\bin\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\bin\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\bin\Debug\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\bin\Debug\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\bin\Debug\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoNegocio\obj\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\bin\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\bin\Debug\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\bin\Debug\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\bin\Debug\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoNegocio\obj\Debug\CatalogoNegocio.pdb

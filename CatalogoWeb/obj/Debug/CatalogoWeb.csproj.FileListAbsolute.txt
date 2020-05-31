@@ -1,0 +1,189 @@
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoWeb.dll.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoWeb.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoWeb.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\obj\Debug\CatalogoWeb.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\obj\Debug\CatalogoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\obj\Debug\CatalogoWeb.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\obj\Debug\CatalogoWeb.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandroCopia - copia\CatalogoWeb\obj\Debug\CatalogoWeb.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoWeb.dll.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoWeb.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoWeb.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\obj\Debug\CatalogoWeb.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\obj\Debug\CatalogoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\obj\Debug\CatalogoWeb.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\obj\Debug\CatalogoWeb.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro\CatalogoWeb\obj\Debug\CatalogoWeb.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoWeb.dll.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoWeb.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoWeb.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoDominio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoNegocio.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoDominio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\CatalogoNegocio.pdb
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\obj\Debug\CatalogoWeb.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\obj\Debug\CatalogoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\obj\Debug\CatalogoWeb.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\obj\Debug\CatalogoWeb.dll
+C:\Users\Usuario\Desktop\TP3_RodriguezLeandro - copia\CatalogoWeb\obj\Debug\CatalogoWeb.pdb
